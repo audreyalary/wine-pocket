@@ -1,0 +1,22 @@
+{
+    "name": "project-wine",
+    "version": "1.0.0",
+    "description": "--",
+    "main": "app.js",
+    "dependencies": {
+        "body-parser": "^1.15.2",
+        "cors": "^2.8.1",
+        "express": "^4.14.0",
+        "angular": "^1.6.1",
+        "angular-materialize": "^0.2.2",
+        "angular-ui-router": "^0.3.2",
+        "body-parser": "^1.15.2",
+        "jsonwebtoken": "^7.1.9",
+        "method-override": "^2.3.6",
+        "mongoose": "^4.6.5",
+        "morgan": "^1.7.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+  }
